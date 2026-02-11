@@ -14,9 +14,9 @@ Capture blob images from DLsite Play Viewer and package them into a ZIP download
 
 
 
-Tampermonkey 脚本版本：[点此安装（需先安装 Tampermonkey ）](https://github.com/gunfub/DLsite-Play-Image-Downloader/raw/refs/heads/main/release/DPID-1.3--Tampermonkey.user.js)
+Tampermonkey 脚本版本：[点此安装（需先安装 Tampermonkey ）](https://github.com/gunfub/DLsite-Play-Image-Downloader/raw/refs/heads/main/release/DPID-1.4--Tampermonkey.user.js)
 
-Chrome 扩展版本：[点此下载 ZIP 压缩文件](https://github.com/gunfub/DLsite-Play-Image-Downloader/raw/refs/heads/main/release/DPID-1.3.0--Chrome.crx.zip)
+Chrome 扩展版本：[点此下载 ZIP 压缩文件](https://github.com/gunfub/DLsite-Play-Image-Downloader/raw/refs/heads/main/release/DPID-1.4.0--Chrome.crx.zip)
 
 
 
