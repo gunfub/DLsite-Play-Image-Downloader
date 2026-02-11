@@ -5,7 +5,7 @@
 // @version      1.4
 // @icon         https://raw.githubusercontent.com/gunfub/DLsite-Play-Image-Downloader/refs/heads/main/source/Dlsite-Play-Image-Downloader--Chrome/icons/icon48.png
 // @description  捕获 DLsite Play Viewer 中的 blob 图片并打包下载为 ZIP
-// @match        *://play.dlsite.com/work/*/viewer/*
+// @match        *://play.dlsite.com/work/*
 // @grant        none
 // ==/UserScript==
 
