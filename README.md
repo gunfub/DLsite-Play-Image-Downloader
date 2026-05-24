@@ -26,4 +26,4 @@ Chrome 扩展版本：[点此下载 ZIP 压缩文件](https://github.com/gunfub/
 
 
 
-<img src="https://raw.githubusercontent.com/gunfub/DLsite-Play-Image-Downloader/refs/heads/main/pictures/Floating_window_interface.png" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/gunfub/DLsite-Play-Image-Downloader/main/pictures/Floating_window_interface.png" style="zoom: 67%;" />
